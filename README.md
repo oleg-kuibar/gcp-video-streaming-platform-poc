@@ -24,8 +24,8 @@ This is a proof-of-concept project for a video streaming platform built using Re
 ## Getting Started
 
 1. Clone the repository
-2. Install dependencies with `npm install`
-3. Start the development server with `npm run dev`
+2. Install dependencies with `pnpm install`
+3. Start the development server with `pnpm run dev`
 
 ## Deployment
 
