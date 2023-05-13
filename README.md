@@ -52,6 +52,10 @@ This project adheres to best practices for security in web applications and prot
 
 This project is open for contributions. If you find a bug or want to suggest a new feature, please open an issue or submit a pull request.
 
+## Links
+
+[UI Kit](https://www.figma.com/community/file/1165192525323846383/Video-Conferencing-Kit-and-Live-Streaming-UI-Kit)
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
